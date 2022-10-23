@@ -1,1 +1,13 @@
 # CS-340
+
+How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+
+My approach to writing programs that are maintainable, readable, and adaptable involves the use of proper naming conventions, writing comments to explain how different parts of the program work,implementing methods, and taking advantage of exception handling. This is a practice that makes it easier for any developer maintaining the program understand how each part of the system works. The most important advantage with this approach is that it makes identifying and fixing bugs an easier task to handle later on.
+
+How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+
+As a computer scientist, my overall approach to any problem is to break a large problem down into several smaller problems. I gather all the details and requirements, create diagrams if necessary, write my user stories, and then I create to-do's as comments in my IDE or code editor before I begin. In previous courses I needed my code to produce a result in the termial. In this course, I needed to produce a visual result that was not only interactive, but also user-friendly. In future I would use the continuous testing technique used in this course to identify and correct bugs as I develop applications.
+
+What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+
+Computer scientists use computer programming principles to solve problems that can be used in the future. Their work matters because it benefits the society in countless ways. For example, we have the world's infomration at our finger tips. Our mobile devices can return data for almost anything we type into a search engine. My work on a project, like Grazioso Salvare, would use the same known computer programming principles, ensuring the program is maintainable, readable, and adaptable, and that the development tools I select are going to produce a product/service that meets the users expectations.
